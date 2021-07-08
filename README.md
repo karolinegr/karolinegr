@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Eu sou a Karoline e recentemente comecei os estudos em programação, especialmente front-end.
 <!--
 **karolinegr/karolinegr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
